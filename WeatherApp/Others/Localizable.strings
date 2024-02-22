@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by macbook on 01.02.2024.
+  
+*/
+
+"calendar" = "calendar";
+"days" = "7- DAY FORECAST";
